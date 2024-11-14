@@ -1,23 +1,32 @@
-source ./pullrate-tracker.sh
+#!/usr/bin/env bash
 
+# source ./wonderPick.sh
+
+source /mnt/c/Week1Project/pullrate-tracker.sh
 
 function createStatFile(){
- if [ -e "boosterPackLog.txt" ]; then
-    echo "Log exists."
+ if [ -e "/mnt/c/Week1Project/boosterPackLog.txt" ]; then
+    echo "Log Updated."
  else
-    touch "boosterPackLog.txt"
+    touch "/mnt/c/Week1Project/boosterPackLog.txt"
     echo "New log has been made!"
  fi
 }
 
 
 function printLog(){
-echo "Packs Opened: ${packsOpened[@]}"  >> boosterPackLog.txt
-echo "Number of Lucky Packs: $luckyPack" >> boosterPackLog.txt
-echo "Correct Card Percentage: ${pullRate[@]}%" >> boosterPackLog.txt
-echo "${date[@]}" >> boosterPackLog.txt
+while IFS= read -r line; do
+  packsOpened=$(echo "$line" | grep -o '[0-9]\+')
+  echo ""
+  echo "Packs Opened: ${packsOpened[@]}"  >> "/mnt/c/Week1Project/boosterPackLog.txt"
+
+
+ done < "/mnt/c/Week1Project/packTracker.txt"
 }
+
 
 createStatFile
 
 printLog
+
+#/mnt/c/Week1Project
