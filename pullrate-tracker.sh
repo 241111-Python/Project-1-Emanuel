@@ -53,6 +53,10 @@ echo "Correct Card Percentage: ${pullRate[@]}%" >> pullRateTracker.txt
 echo "Packs Opened: ${packsOpened[@]}"  >> packTracker.txt
 }
 
+echo ${pullRate[@]}
+echo ${packsOpened[@]}
+
+
 # function printLog(){
 # echo "Packs Opened: ${packsOpened[@]}"  >> boosterPackLog.txt
 # echo "Number of Lucky Packs: $luckyPack" >> boosterPackLog.txt

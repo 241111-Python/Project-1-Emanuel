@@ -19,8 +19,6 @@ while IFS= read -r line; do
   packsOpened=$(echo "$line" | grep -o '[0-9]\+')
   echo ""
   echo "Packs Opened: ${packsOpened[@]}"  >> "/mnt/c/Week1Project/boosterPackLog.txt"
-
-
  done < "/mnt/c/Week1Project/packTracker.txt"
 }
 
