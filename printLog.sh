@@ -4,22 +4,13 @@
 
 source pullrate-tracker.sh
 
-function createStatFile(){
- if [ -e "/mnt/c/Week1Project/boosterPackLog.txt" ]; then
-    echo "Log Updated."
- else
-    touch "/mnt/c/Week1Project/boosterPackLog.txt"
-    echo "New log has been made!"
- fi
-}
 
+function printLog() {           #this functiong gets all states from all txt files line by line and echos them into the boosterPackLog file to display them in an ordered and readable fashion
 
-function printLog() {
-
-    paste "/mnt/c/Week1Project/packTracker.txt" "/mnt/c/Week1Project/pullRateTracker.txt" "/mnt/c/Week1Project/date.txt" | while IFS=$'\t' read -r line1 line2 line3; do
-        packsOpened=$(echo "$line1" | grep -o '[0-9]\+')
-        pullRate=$(echo "$line2" | grep -o '[0-9]\+')
-        time="$line3"  
+    paste "/mnt/c/Week1Project/packTracker.txt" "/mnt/c/Week1Project/pullRateTracker.txt" "/mnt/c/Week1Project/date.txt" | while IFS=$'\t' read -r line1 line2 line3; do        #paste command is used to read each line in all 3 text files simultaneously as if they were 1 line 
+        packsOpened=$(echo "$line1" | grep -o '[0-9]\+')                                    #obtains only the number from each line in the packTracker txt file
+        pullRate=$(echo "$line2" | grep -o '[0-9]\+')                                       #obtains only the number from each line in the pullRateTracker txt file  
+        time="$line3"                                                                       #obtains the full date from each line in the date file                           
     
         echo "Packs Opened: $packsOpened" >> "/mnt/c/Week1Project/boosterPackLog.txt"
         echo "Pull Rate Percentage: $pullRate%" >> "/mnt/c/Week1Project/boosterPackLog.txt"
@@ -35,5 +26,6 @@ function printLog() {
 createStatFile
 
 printLog
+
 
 #/mnt/c/Week1Project
