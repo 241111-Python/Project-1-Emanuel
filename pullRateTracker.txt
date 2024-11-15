@@ -6,3 +6,4 @@ Correct Card Percentage: 0%
 Correct Card Percentage: 0%
 Correct Card Percentage: 20%
 Correct Card Percentage: 16%
+Correct Card Percentage: 50%
