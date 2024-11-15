@@ -2,9 +2,6 @@
 
 source ./pullrate-tracker.sh
 
-createStatFile
-
-
 echo "Select a Card!"
 echo -n "Select a Card from 1 to 5: "
 
@@ -23,6 +20,8 @@ if [[ $res -eq $correctCard ]]; then
     luckyPack=$((luckyPack + 1))
     echo "Congrats!"
 fi
+
+packOpenDate=$(date)
 
 echo "Would you like to open another pack? (yes/no)"
 read -r res
@@ -49,8 +48,9 @@ echo "Number of Lucky Packs: $luckyPack"
 echo "Number of Packs Opened: $openedPacks"
 echo "Percentage of lucky packs: $luckyPackPercentage%"
 
+createStatFile
 
-addStats "$luckyPackPercentage" "$openedPacks" "$(date)"
+addStats "$luckyPackPercentage" "$openedPacks" "$packOpenDate"
 
 printArrays
 
