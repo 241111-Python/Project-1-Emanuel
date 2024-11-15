@@ -1,15 +1,35 @@
 Packs Opened: 1
 Pull Rate Percentage: 100%
 Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
 Packs Opened: 1
 Pull Rate Percentage: 0%
 Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
 Packs Opened: 1
 Pull Rate Percentage: 0%
 Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
 Packs Opened: 1
 Pull Rate Percentage: 0%
 Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
 Packs Opened: 1
 Pull Rate Percentage: 100%
 Time: Time: Thu, Nov 14, 2024  7:38:49 PM
@@ -25,4 +45,340 @@ Time: Time: Thu, Nov 14, 2024  7:41:05 PM
 Packs Opened: 1
 Pull Rate Percentage: 0%
 Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 100%
+Time: Time: Thu, Nov 14, 2024  7:38:49 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:39:42 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:41:05 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:44:54 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:50:16 PM
+
+Packs Opened: 1
+Pull Rate Percentage: 0%
+Time: Time: Thu, Nov 14, 2024  7:51:25 PM
+
+Packs Opened: 5
+Pull Rate Percentage: 20%
+Time: Time: Thu, Nov 14, 2024  7:53:15 PM
+
+Packs Opened: 6
+Pull Rate Percentage: 16%
+Time: Time: Thu, Nov 14, 2024  7:55:15 PM
 

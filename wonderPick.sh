@@ -21,6 +21,8 @@ if [[ $res -eq $correctCard ]]; then
     echo "Congrats!"
 fi
 
+echo ""
+
 packOpenDate=$(date)
 
 echo "Would you like to open another pack? (yes/no)"
@@ -39,14 +41,19 @@ while [ "$res" == "yes" ]; do
 	echo "Congrats!"
     fi
 
+    echo ""
+
     echo "Would you like to open another pack? (yes/no)"
     read -r res
 done
 
+echo ""
+
 luckyPackPercentage=$((100 * luckyPack / openedPacks)) 
 echo "Number of Lucky Packs: $luckyPack"
 echo "Number of Packs Opened: $openedPacks"
-echo "Percentage of lucky packs: $luckyPackPercentage%"
+# echo "Percentage of lucky packs: $luckyPackPercentage%"
+echo ""
 
 createStatFile
 

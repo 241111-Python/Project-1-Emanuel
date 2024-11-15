@@ -22,8 +22,6 @@ function addStats(){
    packOpenDate+=("$3")
 }
 
-
-
 function getTotalPackNumber(){
  totalPackSum=0
  while IFS= read -r line; do
